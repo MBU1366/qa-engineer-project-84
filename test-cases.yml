@@ -109,7 +109,7 @@
     - Нажимаем на кнопку "Add to cart"
   expected-result: |
     Товар появляеться в корзине
-
+#
 - summary: |
     Просмотр товара в корзине
   requirement: |
