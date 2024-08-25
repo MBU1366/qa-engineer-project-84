@@ -1,0 +1,36 @@
+---
+- summary: |
+    Поиск товаров по ключевому слову
+  status: pass
+
+- summary: |
+    Поиск товаров по категории
+  status: pass
+
+- summary: |
+    Фильтр товаров по брендам
+  status: pass
+
+- summary: |
+    Фильтр товаров по ценовой категории
+  status: pass
+
+- summary: |
+    Фильтр товаров по ценовой категории(негативная проверка)
+  status: pass
+
+- summary: |
+    Сайт должен иметь мобильную версию
+  status: fail
+
+- summary: |
+    Проверка открытия карточки товара
+  status: pass
+
+- summary: |
+     Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Просмотр товара в корзине
+  status: pass
