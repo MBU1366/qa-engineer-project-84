@@ -48,6 +48,10 @@ test-cases:
       Хэштег не кликабельный
     status: pass
 
-  - summary: |
+ - summary: |
       Поисковик ищет товары только на одной странице
     status: fail
+
+  - summary: |
+       Курсор при наведении на логотип не корректный 
+    status: pass
