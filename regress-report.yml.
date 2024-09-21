@@ -55,3 +55,16 @@ test-cases:
   - summary: |
        Курсор при наведении на логотип не корректный 
     status: pass
+
+    bugreports:
+  - summary: |
+      Отсутствует наименование категории
+    environment: |
+      Google Chrome 128.0.6613.120 (Официальная сборка) (64 бит), 
+      Windows 10 Pro
+    steps-to-reproduce: |
+      - Кликнуть на выпадающий список "Category"
+    expected-result: |
+      Должно присутствовать наименование категории
+    actual-result: |
+      Отсутствует  наименование категории
