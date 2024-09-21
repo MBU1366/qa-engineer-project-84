@@ -172,3 +172,15 @@
     Должны отображаться товары, которые есть в интернет магазине
 - actual-result: |
     Появляется сообщение "Nothing found!"
+
+- summary: |
+    Курсор при наведении на логотип не корректный 
+- environment: |
+    Google Chrome 128.0.6613.120 (Официальная сборка) (64 бит), 
+    Windows 10 Pro
+- steps-to-reproduce: |
+    - Навести курсор на логотип "Hexlet Store"
+- expected-result: |
+    Должен быть курсор "cursor: default;"
+- actual-result: |
+    Отображается курсор "cursor: text;"
