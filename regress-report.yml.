@@ -9,7 +9,7 @@ test-cases:
     status: pass
 
   - summary: |
-      Отсутствует название бренда
+      В фильтре "Brand" не все чекбоксы имеют подписи
     status: fail
 
   - summary: |
