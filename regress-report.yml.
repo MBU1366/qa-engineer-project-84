@@ -48,7 +48,7 @@ test-cases:
       Хэштег не кликабельный
     status: pass
 
- - summary: |
+  - summary: |
       Поисковик ищет товары только на одной странице
     status: fail
 
