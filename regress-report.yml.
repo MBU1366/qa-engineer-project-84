@@ -61,7 +61,7 @@ test-cases:
     status: fail
 
     bugreports:
- - summary: |
+  - summary: |
       Отсутствует наименование категории
     environment: |
       Google Chrome 128.0.6613.120 (Официальная сборка) (64 бит), 
