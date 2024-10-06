@@ -64,6 +64,10 @@ test-cases:
        Страница оплаты товаров
     status: fail
 
+  - summary: |
+      Фильтр товаров по ценовой категории
+    status: fail
+
 bugreports:
   - summary: |
       Отсутствует наименование категории
